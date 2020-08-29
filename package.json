@@ -1,9 +1,9 @@
 {
-  "name": "sudokujs",
+  "name": "@hakrac/sudokujs",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
@@ -12,7 +12,7 @@
     "lib": "lib",
     "test": "test"
   },
-  "description": "",
+  "description": "A Javascript sudoku library",
   "devDependencies": {
     "@babel/core": "^7.11.4",
     "@babel/preset-env": "^7.11.0",
